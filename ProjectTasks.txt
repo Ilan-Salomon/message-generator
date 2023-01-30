@@ -1,0 +1,9 @@
+Visualize your end result. What is it built with? What can it do? Make sure that it satisfies all of the project objectives.
+
+
+End Result:
+
+Hi *Pablo this is your age: AGE, you look kindof ADJECTIVE, for your age, I bet you like to: VERB in PLACE.
+
+* = User Input
+UPPERCASE = Randomly Computer Created Message
