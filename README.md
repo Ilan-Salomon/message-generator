@@ -1,6 +1,6 @@
-#Message Generator Codecademy Project
+# Message Generator Codecademy Project
 
-##About:
+## About:
 The projects goal is to make a word generator that:
 
 1. Has at least 3 random words or phrases
